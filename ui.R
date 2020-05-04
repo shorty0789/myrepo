@@ -32,11 +32,11 @@ dashboardPage(
                     "Box 1 content",
                     br(),
                     "More box content"
-                  ),
-                )
+                  )
+                ),
                 
                 fluidRow(
-                box(
+                 box(
                   "Box 2 content",
                   br(),
                   "Even More Box Content"
@@ -53,9 +53,8 @@ dashboardPage(
                   br(),
                   "Even More Box Content"
                 )
-            )
-      )
-    ),
-)
+                )
+        )
+       
 
 
